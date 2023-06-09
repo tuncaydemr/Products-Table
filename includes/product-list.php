@@ -1,7 +1,7 @@
 <table class="table table-bordered table-striped">
   <thead>
     <tr>
-      <th>title</th>
+      <th>Title</th>
       <th>price</th>
       <th>description</th>
       <th></th>
