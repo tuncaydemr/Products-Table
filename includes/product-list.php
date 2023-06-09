@@ -2,7 +2,7 @@
   <thead>
     <tr>
       <th>Title</th>
-      <th>price</th>
+      <th>Price</th>
       <th>description</th>
       <th></th>
     </tr>
