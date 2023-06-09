@@ -10,7 +10,6 @@
   <tbody>
     <?php foreach ($product->getProducts() as $item) : ?>
       <tr>
-        <td><?php echo $item->id; ?></td>
         <td><?php echo $item->title; ?></td>
         <td><?php echo $item->price; ?></td>
         <td><?php echo $item->description; ?></td>
